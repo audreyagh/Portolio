@@ -1,47 +1,46 @@
-# Portolio
-
-<h2 id="tag1">Tag1</h2>
-<p>Content related to Tag1</p>
-
-<h2 id="tag2">Tag2</h2>
-<p>Content related to Tag2</p>
-
 ---
 layout: default
-
-title: Home
+title: Resources
 ---
 
-# Inspecting Electric Vehicle Charging Trends
+# External Notebooks and Resources
 
-Explore the external notebook with specific topics:
-- [Python](#python)
-- [Joins](#joins)
-- [Pandas](#pandas)
-- [Seaborn](#seaborn)
+## Notebook Links with Hashtags
 
-## Sections
+### Inspecting Electric Vehicle Charging Trends
+- [Link](https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit) - `python, joins, pandas, seaborn`
+  - [Python](https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#python)
+  - [Joins](https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#joins)
+  - [Pandas](https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#pandas)
+  - [Seaborn](https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#seaborn)
 
-<section id="python">
-  <h2>Python</h2>
-  <p>Link to the relevant section in the notebook:</p>
-  <p><a href="https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#python">Python in Notebook</a></p>
-</section>
+### Hypothesis Testing in Football
+- [Link](https://www.datacamp.com/datalab/w/e397ed6a-7fa9-4a4d-b467-950055aeaace/edit) - `python, Probability & Statistics, Hypothesis Testing`
+  - [Python](https://www.datacamp.com/datalab/w/e397ed6a-7fa9-4a4d-b467-950055aeaace/edit#python)
+  - [Probability & Statistics](https://www.datacamp.com/datalab/w/e397ed6a-7fa9-4a4d-b467-950055aeaace/edit#probability-statistics)
+  - [Hypothesis Testing](https://www.datacamp.com/datalab/w/e397ed6a-7fa9-4a4d-b467-950055aeaace/edit#hypothesis-testing)
 
-<section id="joins">
-  <h2>Joins</h2>
-  <p>Link to the relevant section in the notebook:</p>
-  <p><a href="https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#joins">Joins in Notebook</a></p>
-</section>
+### EV Trends
+- `python, Data Manipulation, pandas, Data Visualization, Seaborn`
 
-<section id="pandas">
-  <h2>Pandas</h2>
-  <p>Link to the relevant section in the notebook:</p>
-  <p><a href="https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#pandas">Pandas in Notebook</a></p>
-</section>
+### Nobel Prize
+- [Link](https://www.datacamp.com/datalab/w/8532e8b6-0fc3-4938-8d78-2b591fb35cba/edit) - `python, Data Manipulation, Data Visualization, Seaborn, pandas`
+  - [Python](https://www.datacamp.com/datalab/w/8532e8b6-0fc3-4938-8d78-2b591fb35cba/edit#python)
+  - [Data Manipulation](https://www.datacamp.com/datalab/w/8532e8b6-0fc3-4938-8d78-2b591fb35cba/edit#data-manipulation)
+  - [Data Visualization](https://www.datacamp.com/datalab/w/8532e8b6-0fc3-4938-8d78-2b591fb35cba/edit#data-visualization)
+  - [Seaborn](https://www.datacamp.com/datalab/w/8532e8b6-0fc3-4938-8d78-2b591fb35cba/edit#seaborn)
+  - [Pandas](https://www.datacamp.com/datalab/w/8532e8b6-0fc3-4938-8d78-2b591fb35cba/edit#pandas)
 
-<section id="seaborn">
-  <h2>Seaborn</h2>
-  <p>Link to the relevant section in the notebook:</p>
-  <p><a href="https://www.datacamp.com/datalab/w/c2d0e6c9-5985-40d0-bb7a-a68526f0f96f/edit#seaborn">Seaborn in Notebook</a></p>
-</section>
+### Analyzing Electric Vehicle Charging Habits
+- [Link](https://app.datacamp.com/learn/projects/analyzing_electric_vehicle_charging_habits) - `Data Manipulation, Exploratory Data Analysis, SQL`
+
+### When Was the Golden Era of Video Games?
+- [Link](https://www.datacamp.com/datalab/w/f1c4640c-59db-4f0e-83cc-66e7b79e899b/edit) - `sql, joins`
+  - [SQL](https://www.datacamp.com/datalab/w/f1c4640c-59db-4f0e-83cc-66e7b79e899b/edit#sql)
+  - [Joins](https://www.datacamp.com/datalab/w/f1c4640c-59db-4f0e-83cc-66e7b79e899b/edit#joins)
+
+### Organisational Review
+- [Link](https://1drv.ms/b/s!Ah01LoK7ayD53AIJgWR_W1ngucWq?e=KnTVRl) - `research - qualitative, research - quantitative`
+
+### Consultation Paper - Atherton, Cairns LAP Variations
+- [Link](https://1drv.ms/b/s!Ah01LoK7ayD5gqJLJxAM6CH-Rpmr_g?e=jgIF3V) - `regulatory, reporting, writing`
